@@ -50,8 +50,8 @@ $("body").css({
 
 $("h2").css({
   //"background-color": "SlateBlue", 
-  "margin-right": "580px", 
-  "margin-left": "580px",
+  "margin-right": "660px", 
+  "margin-left": "660px",
   "border": "5px solid gray"
   });
 
