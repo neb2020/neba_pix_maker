@@ -43,28 +43,15 @@ submitQuery.click(function (event) {
 });
 
 $("body").css({
-  "background-color": "pink",
+  "background-color": "Lightgray",
    
 });
 
-$("h1").css({ 
-  "background-color": "MediumSeaGreen",
-  "border": "5px solid red",
-  "border-radius": "20px",
-  
-});
 
 $("h2").css({
-  "background-color": "SlateBlue", 
+  //"background-color": "SlateBlue", 
   "margin-right": "580px", 
   "margin-left": "580px",
   "border": "5px solid gray"
   });
 
-$("#sizePicker").css({
-   "background-color": "green", 
-"border-radius": "15px",
-"padding-right": "40px",
-  "margin-right": "510px",
-  "margin-left": "510px"
-})
